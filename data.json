@@ -2854,6 +2854,1896 @@
             "album": "Unknown",
             "type": "Rock",
             "link": "https://drive.google.com/open?id=1vPU2S-F8p31zyS2vzwtjhxpCHEnQOi_-"
+        },
+        {
+            "name": "မာယာ",
+            "artis": "ေလးျဖဴ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1_7IwJ8T4PYeplNofBnOdPbXHw-RVYqJF"
+        },
+        {
+            "name": "အရင္အတိုင္းပဲ",
+            "artis": "ေဝလ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1PlYvhT9KB81yjXnE2msf0kMP7KlBokbG"
+        },
+        {
+            "name": "မင္းမရွိတဲ႔ေနာက္",
+            "artis": "ထူးအိမ္သင္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1Ot3nb75k67k8_HvMEDdY9QL3Z1XqrPKj"
+        },
+        {
+            "name": "အမုန္းနဲ႔ပဲထိုက္တန္တယ္",
+            "artis": "ဝန",
+            "album": "အသင့္ျဖစ္ထားတယ္",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1OTKLvCZYyP7374MgW7kKqs1W0OxJdSyh"
+        },
+        {
+            "name": "မင္းခ်စ္မွခ်စ္ပါမလား",
+            "artis": "ေဇာ္ပိုင္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1lIfI4XcZQw4IPXuc3Mpsak8f9BCN-d7H"
+        },
+        {
+            "name": "နစ္နာမယ္",
+            "artis": "ေနာ္ဒင့္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1e20SF0izwut4ka4-LrPXgpfiLqlR-bfi"
+        },
+        {
+            "name": "သူရဲေကာင္း",
+            "artis": "Raymon(Idiot)",
+            "album": "ေခတ္သစ္ေက်ာက္",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1CnsXLk0JSBL3OrK2pOfDnsn43MAx-OcJ"
+        },
+        {
+            "name": "ဘာလိုေနေသးလဲ",
+            "artis": "Raymon(Idiot)",
+            "album": "ေခတ္သစ္ေက်ာက္",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1N7xdHXctfxaihBwaNZZ-UeCCf2utDhU2"
+        },
+        {
+            "name": "မင္းနဲ႔ပါတ္သက္ရင္",
+            "artis": "Raymon(Idiot)",
+            "album": "ေခတ္သစ္ေက်ာက္",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1etUHDxve4fJsssl_bB7b4ygqjtX6SBrS"
+        },
+        {
+            "name": "အိပ္ရာဝင္ေတး",
+            "artis": "Raymon(Idiot)",
+            "album": "ေခတ္သစ္ေက်ာက္",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1vhlfvPHD1nN0ECGYDG879LOvnb7W6Wnv"
+        },
+        {
+            "name": "မယံုႏိုင္ဘူး",
+            "artis": "အငဲ",
+            "album": "ကိုး",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1FZbq0Ye0-W0Mscc2difhj94RVZM7DL5A"
+        },
+        {
+            "name": "ေနာက္ဆံုးမိနစ္",
+            "artis": "အငဲ",
+            "album": "ကိုး",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1n_jY9muOJsVARn6uIN7EWmiK6L2fJksX"
+        },
+        {
+            "name": "အခ်စ္လို႔ေခၚသလား",
+            "artis": "ထူးအယ္လ္လင္း",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1JbnMtE39GJAdbO8ABdQTASnT4dy8TFF1"
+        },
+        {
+            "name": "ေနာင္တ",
+            "artis": "ေဝလ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=12VrHYmx5m59aDHGDQRZjThDKhA2VzEnB"
+        },
+        {
+            "name": "ႏိုရာ",
+            "artis": "ကိုကိုေမာင္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1eeAJcFwGSMz-yC520UG2KQy6g2tu6w7-"
+        },
+        {
+            "name": "အနီးဆံုးရန္သူ",
+            "artis": "ေဝလ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1RCBdqQkSo1zVSsEBdNAykCvhRmYxzPyc"
+        },
+        {
+            "name": "မင္းမရွိေန႔မ်ား",
+            "artis": "Big Bag",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1Kt3wJKZEVTJj-MF97To-RnpazlskyG0p"
+        },
+        {
+            "name": "အေမ",
+            "artis": "ဝန",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=12ssTlJP921rLW1cewZf7KgTnpUKEDJEF"
+        },
+        {
+            "name": "ကိုယ္ေရးရာဇဝင္",
+            "artis": "အငဲ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1wo2yqOfAUnKfEhDsmjcQrUn2f3D4r-If"
+        },
+        {
+            "name": "ျမင္ႏိုင္မလား",
+            "artis": "ဟန္ထြန္း",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1vRk8XA1E9_0Nl4X-ge0l5s9K-S9Oo3Mq"
+        },
+        {
+            "name": "အဓိပတိလမ္းကေျခရာမ်ား",
+            "artis": "ထူးအိမ္သင္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1GBLwXvo4ABAusGit5KYgI3aT38urdwF7"
+        },
+        {
+            "name": "ခ်ာတိတ္",
+            "artis": "အထြန္း",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=15FzpEqF3bE5H9fJyJ_m6vNr7u3ovwB-m"
+        },
+        {
+            "name": "မင္းအနား",
+            "artis": "ဝန",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1APOyUTmH2jyDlnocqS3gUlQXdK7DHrb3"
+        },
+        {
+            "name": "ႏွစ္ေယာက္တစ္အိမ္မက္",
+            "artis": "ဂေရဟမ္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1VboLQ6bW02DrZ6eqp7QssZkqc-bb1HeJ"
+        },
+        {
+            "name": "ျပည္ပသို႔ေပးစာ",
+            "artis": "G-Fatt",
+            "album": "Unknown",
+            "type": "Rap",
+            "link": "https://drive.google.com/open?id=1ANhKKI5nOU_oOSKkXgFBX2Rb1HvT4U6X"
+        },
+        {
+            "name": "အိပ္မက္ရွည္",
+            "artis": "ျပည့္စံု",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1xThH1YjLdrlwcRB08Fbd534kKDFmj9EM"
+        },
+        {
+            "name": "မခ်စ္ရဘူးတဲ႔လား",
+            "artis": "ေဝလ",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1xST3QyTRMw0k_9jrnhP9Ahuh4Vp1dxU7"
+        },
+        {
+            "name": "လက္ခံမွာလား",
+            "artis": "ဝိုင္ဝိုင္း",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1UXgselVyft79mJbRsRGNcoUSXi4lFBoM"
+        },
+        {
+            "name": "အိမ္",
+            "artis": "အငဲ",
+            "album": "ကိုး",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1-KZfUROuQzY4wUoK-1MPhFt8TBtwp4MV"
+        },
+        {
+            "name": "ယု",
+            "artis": "မြန္းေအာင္",
+            "album": "Unknown",
+            "type": "Soft",
+            "link": "https://drive.google.com/open?id=1rjyBbSq_eRst9ltZW6VVuYGu23g9lHkP"
+        },
+        {
+            "name": "အားလံုးနဲ႔လဲပါတယ္",
+            "artis": "ျဖဴျဖဴေက်ာ္သိန္း",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1_e9qQCufl8UtwRlY4KHqvsOmGrxoIpi_"
+        },
+        {
+            "name": "ဒုတိယ",
+            "artis": "စည္သူလြင္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1zwRc81uEkqGwpxxbzEOSd2lpbX-Yqauh"
+        },
+        {
+            "name": "အခုေလာေလာဆယ္",
+            "artis": "Fokker(Wanted)",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1FfxXxf4rIIg0MWYBFrdOH7QmjQOwB-54"
+        },
+        {
+            "name": "သခင့္ေႀကာက့္",
+            "artis": "ဝန",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1B4iAy96RmcyL2EbdxQRUC8Q5KW8M6xY2"
+        },
+        {
+            "name": "လူ",
+            "artis": "Unknown",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1zlyufj2q0EPIYnopE3J5ck37mg-IWUjc"
+        },
+        {
+            "name": "တံခါးဖြင့္ထားပါတယ္",
+            "artis": "ေရႊထူး",
+            "album": "Unknown",
+            "type": "Pop",
+            "link": "https://drive.google.com/open?id=1r-zI4M47TOkV1UFlcmly8rhAoR5RQa_n"
+        },
+        {
+            "name": "ျမဲေစမယ္",
+            "artis": "ဝန",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1QJEg9sMyPBr6wo7jjUS74KbIOcVx81DS"
+        },
+        {
+            "name": "၈၈ အင္းလ်ား",
+            "artis": "စိုးလြင္လြင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1nUKWHPxBFmqmuIKIFA7DvoFyH6q22X-O"
+        },
+        {
+            "name": "ဒဏ္",
+            "artis": "Big Bag ပိုပို",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=19qrGqu5GY8CwS6toCo_Yz02cBN33jcSO"
+        },
+        {
+            "name": "ဘဝတစ္ခုက်ကြဲျခင္း",
+            "artis": "Big Bag",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1OIibjD1G_JuATszsWwJR39s1qdk4fypr"
+        },
+        {
+            "name": "လူလား",
+            "artis": "Big Bag",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1HXzeVho8xoNeyxOIWMgy9Ij8t8vSTjhT"
+        },
+        {
+            "name": "မ်က္လံုးခ်င္းစကားေျပာေနျပီ",
+            "artis": "Lလြန္းဝါ",
+            "album": "Unknown",
+            "type": "Soft",
+            "link": "https://drive.google.com/open?id=1CSy3HjXNDGKdOOJ2Z0CS3I80C7EXlWwy"
+        },
+        {
+            "name": "အတိုင္းထက္အလြန္",
+            "artis": "ေနာေနာ္",
+            "album": "အိပ္မက္ထဲကလူ",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=19K69753rQ5E0JVMsaadNcRd3h8pRacFL"
+        },
+        {
+            "name": "မ်ဥ္း",
+            "artis": "ေနာေနာ္",
+            "album": "အိပ္မက္ထဲကလူ",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1iUTmpePjGPbOIEWtiVJ4hGkHQeySBUW6"
+        },
+        {
+            "name": "ဖက္ထားမယ္",
+            "artis": "ေနာေနာ္",
+            "album": "အိပ္မက္ထဲကလူ",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=17uvYCksaM3w_d2yQNhnZAbVksfhWmLNV"
+        },
+        {
+            "name": "အိပ္မက္ထဲကလူ",
+            "artis": "ေနာေနာ္",
+            "album": "အိပ္မက္ထဲကလူ",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1hmQREX9NAJJ-EfOxdMXQoiZLUUyCNXP2"
+        },
+        {
+            "name": "ေတာ္ျပီေနာက္",
+            "artis": "ေနာေနာ္",
+            "album": "အိပ္မက္ထဲကလူ",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1h4ACZVSlJWK1bPjzQtMLAn0-x_xzOgug"
+        },
+        {
+            "name": "ေနညိဳရင္",
+            "artis": "လင္းနစ္",
+            "album": "Unknown",
+            "type": "Soft",
+            "link": "https://drive.google.com/open?id=1XPsnMC1BJuIf6q642kmQhDhsOIVTv2-q"
+        },
+        {
+            "name": "ဂ်ပ္ဆင္ထိပ္ကလရိပ္ျပာ",
+            "artis": "ထူးအိမ္သင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1r1gc8VbTRE9EzZk6jdvD3q4GgNeiCgIt"
+        },
+        {
+            "name": "သည္းခံ",
+            "artis": "Big Bag",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1fq-0oqMUiPHuh4SQdZ95_AxKpbErIUbp"
+        },
+        {
+            "name": "ျပည့္တန္ဆာ",
+            "artis": "သာဒီးလူ",
+            "album": "ျပယုဂ္",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1J_0AvjmhvBVcutGuBBTWveKa0psW9KZY"
+        },
+        {
+            "name": "သူငယ္တန္း",
+            "artis": "ေဝလ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1QggoyAtF7a5WI2gzqk5kYZbjzFqJ5Z-r"
+        },
+        {
+            "name": "သံေယာဇဥ္",
+            "artis": "ေလးျဖဴ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1lmMdAbvHwXbF0y9dp16yDf_m_ciLRtIQ"
+        },
+        {
+            "name": "အေဆာင္သူ",
+            "artis": "ဝန",
+            "album": "တစ္နာရီ",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1gLvsbntWbxU79YUQsIuZ0DhhHE51Vs0k"
+        },
+        {
+            "name": "ျပန္ဆံုႀကမယ္",
+            "artis": "ေနာေနာ္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1hgZOjwGtFS4dm4fHNEcky3cq6KfCxS4x"
+        },
+        {
+            "name": "မဆံုတဲ႔ဖူးစာ",
+            "artis": "ဝိုင္ဝိုင္း ႀကိဳးႀကာ",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1MmTPdv14XSZn4gNtq_UlSHnMSQj0zNGU"
+        },
+        {
+            "name": "ကပ္ဆိုး",
+            "artis": "ဝန",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1rTKl_GznKJaI8eMz7fRbCyHlhkCCyKcA"
+        },
+        {
+            "name": "နင့္စိတ္သေဘာ",
+            "artis": "ဝန",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1hVPhnfQUfrKY2QOsRmtoML5taP2bZSP-"
+        },
+        {
+            "name": "တစ္ဖက္သက္အခ်စ္",
+            "artis": "ဝန",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1lTRrDrpSG5GD5lPBFhhb3ymVPnUeqVgc"
+        },
+        {
+            "name": "ျပင္ဆင္ခြင့္",
+            "artis": "ဝန",
+            "album": "တစ္နာရီ",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=15fv92ntu4KOnem9yG5vQwxK7vzFk0XHe"
+        },
+        {
+            "name": "အဆိပ္မိျခင္း",
+            "artis": "ဝန",
+            "album": "တစ္နာရီ",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1JBL-o6Na027FDVRiAXlRdlyiX-bKWoUN"
+        },
+        {
+            "name": "အေဆာင္သူ",
+            "artis": "ဝန",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1YrCPj7q9gcEYLZK9da_mqBgnm17I3hqB"
+        },
+        {
+            "name": "ျပန္ခဲ႔ပါ",
+            "artis": "ေလးျဖဴ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1JnTxxhrwEXX3Coj6hSsHlYGZQayRbW6_"
+        },
+        {
+            "name": "ေပ်ာ္ေတာ္ဆက္",
+            "artis": "ဝန",
+            "album": "တစ္နာရီ",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1-m1198a-jIaswiBRbxct96AOaabE4pwJ"
+        },
+        {
+            "name": "သက္ေရာက္မွဳ",
+            "artis": "ဝန",
+            "album": "တစ္နာရီ",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=117iDlRR355it0bEgUmAK5y7RZwApzybx"
+        },
+        {
+            "name": "ဗိုလ္ေအာင္ဒင္",
+            "artis": "မေနာ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1b6zkAbm1WbuVJ5H-hg4gLnqW4ncnGG0c"
+        },
+        {
+            "name": "နိဒါန္း",
+            "artis": "ေနာေနာ္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1r2N-kSR-yq12TsOFJ7ZXpgCja2ozMbGx"
+        },
+        {
+            "name": "အမွတ္တရ",
+            "artis": "ဝန သာဒီးလူ လင္းယံ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=16wCfMXelwliNoTxWw1R2ltuWNb7DoNBS"
+        },
+        {
+            "name": "အသက္ေလးဆယ္",
+            "artis": "မိုးမိုး",
+            "album": "Unknown",
+            "type": "Soft",
+            "link": "https://drive.google.com/open?id=1PRBm__KJTs36RHvgoM07aArh6Jqls-Gh"
+        },
+        {
+            "name": "စေတးခန္း",
+            "artis": "ဝန",
+            "album": "တစ္နာရီ",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1d6aD4cJCvECRoLGGUradDZB_MWwyYuGN"
+        },
+        {
+            "name": "အင္းယားလမ္းကပန္းဆိုင္",
+            "artis": "Big Bag",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1NmJ6w94SrpiSw4Nu5q5RvzsYSXGZrT4j"
+        },
+        {
+            "name": "တယ္လီပန္႔ခ္",
+            "artis": "Big Bag",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1gf3leZK8-WdfiTPBiCk2wUhkiK1pG2A_"
+        },
+        {
+            "name": "နံရံပါး",
+            "artis": "ဝန",
+            "album": "တစ္နာရီ",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1mgw8Sf1zQVFnHgvSw_WWjQoOvxG0qgAG"
+        },
+        {
+            "name": "အလင္း",
+            "artis": "ဝန",
+            "album": "တစ္နာရီ",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=15P2-cBRBXjP7emYEAiHHb_YBbn4rEvsE"
+        },
+        {
+            "name": "Birthday Song",
+            "artis": "Unknown",
+            "album": "Unknown",
+            "type": "Soft",
+            "link": "https://drive.google.com/open?id=1hWUP3iGHZNzj57pMzs3pApuT0wSq8Rk9"
+        },
+        {
+            "name": "ေျမနီလမ္း",
+            "artis": "ဘိုျဖဴ",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=15Za8WTQoavPMDgItthmetFm49uopYUcJ"
+        },
+        {
+            "name": "အမုန္းနဲ႔ပဲထိုက္တန္တယ္",
+            "artis": "ဝန",
+            "album": "အသင့္ျဖစ္ထားတယ္",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1sc661beR0afISU_D2DLtteD90Dz2YpuE"
+        },
+        {
+            "name": "ရင္မွာအရင္အတိုင္း",
+            "artis": "အစၥဏီ",
+            "album": "Unknown",
+            "type": "Soft",
+            "link": "https://drive.google.com/open?id=1wJZ2-CWwcRgBsqJIvUVfw7KsjQYQqOG-"
+        },
+        {
+            "name": "ကိုယ္မင္းအနားျပန္လာျပီ",
+            "artis": "သအို႔",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1_77_pFOyfgWkVE1kdu40dfKkQeyhTMGz"
+        },
+        {
+            "name": "ငယ္ခ်စ္ဦး",
+            "artis": "စိုင္းထီးဆိုင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=14WuVsr5ukDad1YYZA4BeYMSNygzMOz2w"
+        },
+        {
+            "name": "ေမွ်ာ္လင့္ျခင္းေလး",
+            "artis": "ေလးျဖဴ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1VgfLTRbOZyhpymKIEw_-OUWnq4lkACGj"
+        },
+        {
+            "name": "မင္းေႀကာင့္လား",
+            "artis": "အငဲ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=14zaYVaZL2sokHxHWZmKBew3wTtPpgPcg"
+        },
+        {
+            "name": "ညေနမ်က္ရည္",
+            "artis": "ေဝလ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1_3uoJ_nZAhC_SyaWywCtgRGHlWVm6llO"
+        },
+        {
+            "name": "အသံုးမက်တဲ႔ႏွင္းဆီ",
+            "artis": "ေလးျဖဴ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1RsaFof8RsPFIC_-52SNpT7H0hnSOl7jg"
+        },
+        {
+            "name": "စိတ္ပူတယ္",
+            "artis": "ေလးျဖဴ",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1K9d-sA-QVwA242QvM-lAs8H4zyxuwuJ8"
+        },
+        {
+            "name": "မအတြက္",
+            "artis": "ဟန္ဘိုဘိုထြန္း",
+            "album": "Unknown",
+            "type": "Pop",
+            "link": "https://drive.google.com/open?id=1qv9inxnkpQRbSMtDWpig3wMADYNc165I"
+        },
+        {
+            "name": "ေလထဲကငါ(အတိတ္ေမ့ျခင္း)",
+            "artis": "Big Bag",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1rcmzX7xpxyIPvxQU4On6RPjs2tx156pP"
+        },
+        {
+            "name": "ေရႊရုပ္ေလးေကာက္ရသူ",
+            "artis": "ျမန္မာျပည္သိန္းတန္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=155HcuNP_8tipbwsyNOUwwTKU8wgP5Bbg"
+        },
+        {
+            "name": "မေရရာဘူး",
+            "artis": "ေလးျဖဴ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1VVlzC56D5FT0TRoCqQ-EQ-wxxyys_0aN"
+        },
+        {
+            "name": "ဆယ္ေက်ာ္သက္",
+            "artis": "ေအာင္ေအာင္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1yz_-p8JLQ2p3Dpccg0Ldk2ak5SQSy_kl"
+        },
+        {
+            "name": "ပစ္မွတ္",
+            "artis": "ဝန",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1US3G2rsRRjQ0-0qCiqtGFtY5ekziJ2Ry"
+        },
+        {
+            "name": "ဆုလာဘ္",
+            "artis": "Raymon(Idiot)",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1KiN_hPXxrWvB8-3Y-SThVHJBvMU_u1vZ"
+        },
+        {
+            "name": "ဆရာမ",
+            "artis": "လႊမ္းမိုး",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1u873qi3pQG6ulQ5JoigwCXQkSvBLRRku"
+        },
+        {
+            "name": "လရိပ္",
+            "artis": "ျဖိဳးျပည့္စံု",
+            "album": "Unknown",
+            "type": "Soft",
+            "link": "https://drive.google.com/open?id=1UFNFV3kgOx-IBWTV23t5b1sSCnaCK75J"
+        },
+        {
+            "name": "အႀကင္နာအႀကည့္ေတြရဲ႕အေႀကာင္း",
+            "artis": "ေဇာ္ပိုင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1uQrCjiaWcsQ3H0Zs64G2xk3tNccNQ9a_"
+        },
+        {
+            "name": "အခ်စ္ေတးကဗ်ာ",
+            "artis": "ေအာင္ထက္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1HkEB4EJb2LFiojJVfqrN06GNmkeahDV-"
+        },
+        {
+            "name": "မင္းနဲ႔မွခ်စ္တတ္ျပီေပါ့",
+            "artis": "ေဇာ္ပိုင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1qIK_nD5b73zfWbcVLPQHqXyJpHMuVEMO"
+        },
+        {
+            "name": "ထားခဲ႔ဦး",
+            "artis": "ေလးျဖဴ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1nCpX4ICmuQEnSWCgEUKuWhhKODZvCp6m"
+        },
+        {
+            "name": "ခ်စ္သူ႔လက္ေဆာင္",
+            "artis": "ထူးအိမ္သင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1rSMzcNIheKLh2vEgSIXfx8t_ArJtcxau"
+        },
+        {
+            "name": "မခ်စ္ဘူးမေျပာပါနဲ႔",
+            "artis": "ဒိုးလံုး",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1vXTSQ25FvjfQCvnJ_b97mBx0xkebN3RJ"
+        },
+        {
+            "name": "အရိုးထိေအာင္ရူး",
+            "artis": "ဒိုးလံုး",
+            "album": "Unknown",
+            "type": "Alternative",
+            "link": "https://drive.google.com/open?id=1UOJtzFSbV0QqRbLjYMOl2AiNFRVcPQIN"
+        },
+        {
+            "name": "တစ္စစီက်ိဳးပဲ႔ေနတယ္",
+            "artis": "ေအးခ်မ္းေမ",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1iAL9Q1nW22o4QLytu4fHtcHCvwoDxhZe"
+        },
+        {
+            "name": "အခ်စ္ညရင္ခုန္သံ",
+            "artis": "စိုးပိုင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1kBLnd2oPPqAiMCkT88usn7xc4PU7sEBR"
+        },
+        {
+            "name": "ေနကြယ္ရင္လထြက္မယ္",
+            "artis": "စိုးပိုင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1CpwYUIx06I9bRiw165CPwp2XzwYMkO6b"
+        },
+        {
+            "name": "မီးအိမ္ရွင္မေလး",
+            "artis": "ညီပုေလး",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1exCLQDF7WfPajOBXZjmFsSxbzXd36Osp"
+        },
+        {
+            "name": "သီတာသီတာသီတာ",
+            "artis": "စိုးပိုင္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=165w0ib7j0zvudeYxb78S8mMVadYSSCeH"
+        },
+        {
+            "name": "ေႀကကြဲစရာ",
+            "artis": "Rဇာနည္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1jDb71cuSkWsTUinlRtp8lezQHnH-BhPZ"
+        },
+        {
+            "name": "ေယာသူတို႔ရြာ",
+            "artis": "ျမန္မာျပည္သိန္းတန္",
+            "album": "Unknown",
+            "type": "Myanmar",
+            "link": "https://drive.google.com/open?id=1FMB9uJSoWtXR5GVc6PVwSlpIjtRq6PQB"
+        },
+        {
+            "name": "သီခ်င္းခ်စ္သူ",
+            "artis": "အဲလပ္စ္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1wGLJA6ov_ejyYzy0UqaGaEGJ8KyrFjAT"
+        },
+        {
+            "name": "ႏွစ္ဆယ့္ငါးမိနစ္",
+            "artis": "ထြဏ္းထြဏ္း",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1qftzWcK-krIESjPzCt3aJPw9koB2rNiK"
+        },
+        {
+            "name": "ေတာင္းပန္တယ္",
+            "artis": "ေအာင္လ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=12_QyXseWRDJ_Uc2PuDIUq4a7RBN863yw"
+        },
+        {
+            "name": "ငယ္သူမို႔",
+            "artis": "ဝန",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1HV4dIiXvh40WX0bqd6hfuuuKl3B39uNg"
+        },
+        {
+            "name": "ရာသီေျပာင္းခ်ိန္",
+            "artis": "စိုင္းထီးဆိုင္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1YTvXDUIL4rC7uuMVKNXmqbDP8LQbq6Y1"
+        },
+        {
+            "name": "ေမွ်ာ္ႏိုင္သမွ်",
+            "artis": "ျဖိဳးျပည့္စံု",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1lfJjxF7UrHaoGSrdOnvPDFHIpvTkURl9"
+        },
+        {
+            "name": "စိတ္ညွိဳ႕လွင္",
+            "artis": "စိုင္းထီးဆိုင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1azw64XKxAYNROmRUCq4u-V-Vo_UD2R2g"
+        },
+        {
+            "name": "ကိုယ့္အခ်စ္နဲ႔အရာရာကိုအေကာင္းအတိုင္းျဖစ္ေစမယ္",
+            "artis": "စိုင္းထီးဆိုင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1KMpzE_-2_vZEflHNlFT_LpyLoKpfuJdz"
+        },
+        {
+            "name": "ဒီထက္ပိုျပီးမတတ္ႏိုင္",
+            "artis": "စိုင္းထီးဆိုင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1uyerKqngIeiFun60pp2HspMv5sCfrkFf"
+        },
+        {
+            "name": "ေနရာတိုင္းမွာ",
+            "artis": "စိုးပိုင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=14yrEVky34dJDYU3T8sy-MNlXB1T4l_yn"
+        },
+        {
+            "name": "ေရဒီယိုကမာရြတ္",
+            "artis": "စိုင္းထီးဆိုင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1ZTm-9ZqcDXh8P8QeFXjYEUOpNqxOOZ_X"
+        },
+        {
+            "name": "စဥ္းစားပါဦး",
+            "artis": "စိုင္းထီးဆိုင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1stgMJLrpFzlPwR4WRmg3tLneAzbHr34k"
+        },
+        {
+            "name": "ႏွဳတ္ဆက္ျခင္း",
+            "artis": "စိုင္းထီးဆိုင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1_2vsBIPx9Ku199ACSbeo1PYSm8m-Von8"
+        },
+        {
+            "name": "ခ်စ္လြန္းလို႔ပါ",
+            "artis": "ေအာင္ဆန္းလင္း",
+            "album": "ခ်စ္လြန္းလို႔ပါ",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1516j21mftWrBMvug5yzfSxqLbI9SKwNF"
+        },
+        {
+            "name": "မင္းအေႀကာင္းအိပ္မက္",
+            "artis": "စည္သူလြင္ Lလြန္းဝါ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1dRT2mnQN97_uaeUD0m23vgfBSVj993-y"
+        },
+        {
+            "name": "ခ်စ္တယ္",
+            "artis": "ေဇာ္ပိုင္",
+            "album": "Unknown",
+            "type": "Soft",
+            "link": "https://drive.google.com/open?id=1yZdXkHHwWPfiJml4mfiCz9ghp1knLwiX"
+        },
+        {
+            "name": "ေငြေသာ္တာေရာင္ျခည္",
+            "artis": "Unknown",
+            "album": "Unknown",
+            "type": "Soft",
+            "link": "https://drive.google.com/open?id=1_r0pyo3U7uQZZw--XeAy4cN7RnSUUrvI"
+        },
+        {
+            "name": "စဥ္းစားပါဦး",
+            "artis": "စိုင္းထီးဆိုင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1Z71N02y0tLUpKL8ZPx4nJO7ZQEbLRDFO"
+        },
+        {
+            "name": "ျပည့္စံုလြန္း",
+            "artis": "ေဇာ္ပိုင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=12empQ6-y4hzoo6A71ooexaT59li8d-Cf"
+        },
+        {
+            "name": "ကဗ်ာမမွီစာမပီ",
+            "artis": "စံလင္း",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1Cu5bQCH-__1Aa_wcfKUGGeduYNI0-BEs"
+        },
+        {
+            "name": "အေမတစ္ခုသားတစ္ခု",
+            "artis": "ထူးအိမ္သင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1ynHEm0YuIk1juofPygwnKFBgxMnziygk"
+        },
+        {
+            "name": "ႏွလံုးလမ္းေႀကာင္းမွာကြ်န္းခံေနတယ္",
+            "artis": "စိုင္းထီးဆိုင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1ILEIs8ti_X0oTZGjZ_t8cWFNFL_8tbJP"
+        },
+        {
+            "name": "အခ်စ္ဦးမဟုတ္ေပမဲ့",
+            "artis": "ေကာင္းေကာင္း",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1fN-H4W8rlYrnLYjRlhOsJZ9Vv8h14-uZ"
+        },
+        {
+            "name": "ေနပါေစခ်စ္လို႔",
+            "artis": "ထူးအယ္လ္လင္း",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=17F7sKRJQLQ7aZk7iT7Lan0px3b9M-YT-"
+        },
+        {
+            "name": "သူစိမ္း",
+            "artis": "Big Bag",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1gBmU7Y5-YhbgCfPz4Gj_Qp_GAS1Y6lks"
+        },
+        {
+            "name": "ေသာကေတာင္တန္း",
+            "artis": "ျမန္မာျပည္သိန္းတန္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1KMBhkXAr7UCBKIkgD93IdCWKYG9vXzNz"
+        },
+        {
+            "name": "အခ်စ္စစ္ရဲ႔တန္ဖိုး",
+            "artis": "မေနာ",
+            "album": "Unknown",
+            "type": "Pop",
+            "link": "https://drive.google.com/open?id=1gLH-MBVXWJYeV8l-bFVPZYteZulhj5fE"
+        },
+        {
+            "name": "အသည္းကြဲသီခ်င္းအသစ္",
+            "artis": "ေလးျဖဴ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1c1ALn2sBxz4VyjkXw06puhjcijGqVf1k"
+        },
+        {
+            "name": "မင္းမွမင္း",
+            "artis": "ေလးျဖဴ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1pVILtep5FIcHpoechPdAZwyPoVjYcnzm"
+        },
+        {
+            "name": "တစ္ေန႔ေန႔ေတာ့ခ်စ္လာလိမ့္မည္",
+            "artis": "ထူးအိမ္သင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1IIrm9T7r-5U9kQ96iGzhaxDXRl9bqe-i"
+        },
+        {
+            "name": "မင္းသိႏိုင္မလား",
+            "artis": "ေစာလားေထာဝါး",
+            "album": "Unknown",
+            "type": "Soft",
+            "link": "https://drive.google.com/open?id=1sv9bYHMFYCGZGxSHy4V7hfS73Ww1593s"
+        },
+        {
+            "name": "ဘာမွမလိုဘူး",
+            "artis": "ပိုပို",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1d-8fFeRKqE7i2qj8ASZTvKbBNihgWJ2u"
+        },
+        {
+            "name": "ႀကိဳေနေစခ်င္တယ္",
+            "artis": "ဂ်ီလတ္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1OhaRn3MOtmGdEXhheVP6j2gINAk2Xe_T"
+        },
+        {
+            "name": "ဥ",
+            "artis": "အရိုး",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1l6R-jHLoIo4BKaDVRK9eKh3tQDDD8BAe"
+        },
+        {
+            "name": "မိုးတိမ္ထဲဝဲ",
+            "artis": "ေလးျဖဴ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=16CR-3Yyk0FtpL7qFi1rAwfucVOKMdg8w"
+        },
+        {
+            "name": "အင္းလ်ားသို႔",
+            "artis": "ဆင္ေပါက္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=13fkP5e52dbnGem0wBMQHpNXTpTVg4HdU"
+        },
+        {
+            "name": "ေနတတ္သလို",
+            "artis": "လင္းလင္း",
+            "album": "စဥ္းစားပါ",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1VetyozEDvbczY6Spue1Bd-LtKreDe_mv"
+        },
+        {
+            "name": "ေဆာင္းအိပ္မက္",
+            "artis": "Lလြန္းဝါ",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1l2qQa6DxKbgPvWAH7zQwjjee8iGchD3q"
+        },
+        {
+            "name": "လမ္း",
+            "artis": "ေလးျဖဴ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1wwOfzLk-F9JbjMVSR8JJGJQirwpD39FS"
+        },
+        {
+            "name": "မင္းရွိတဲ႔ျမိဳ႔",
+            "artis": "မ်ိဳးႀကီး",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1De9W-LNXI0gGTYFgpIRy0spTG02lWNU0"
+        },
+        {
+            "name": "စစ္ကိုင္းလမ္း",
+            "artis": "ေဇာ္ပိုင္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1qeDiM9gKYbhRVfuWewJ0ToAnO8WJcFCE"
+        },
+        {
+            "name": "လြမ္းတဲ႔စိတ္",
+            "artis": "မ်ိဳးႀကီး",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1Y1SFFrhJDUg14J4VwdkjX85sgF4ALoiS"
+        },
+        {
+            "name": "ေဝးသြားတဲ႔အခါ",
+            "artis": "ထူးအိမ္သင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1Jsw14g7ocLxsSHCeNGcdauKPBUG3rS2b"
+        },
+        {
+            "name": "ေခါင္းေလာင္းေလးေတြျမည္ေနျပီ",
+            "artis": "ထူးအိမ္သင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1QgJF0VnDia-LfxWFBJ-0fCYuy4FgQkv5"
+        },
+        {
+            "name": "မင္းမရွိတဲ႔ေနာက္",
+            "artis": "ထူးအိမ္သင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1_DFUVBmazlLEGn6JCdYsoeqcBgZPvvc-"
+        },
+        {
+            "name": "ေမေမခ်စ္တဲ႔သားႀကီး",
+            "artis": "ထူးအိမ္သင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1ee6pKiLYkmlaHjjiIcZ4DButbC3HlD6e"
+        },
+        {
+            "name": "ေက်းဇူးပါေမေမ",
+            "artis": "ထူးအိမ္သင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1wMcJt9wQpYQ3FPAYrfG5ZYuyRMzAaTEj"
+        },
+        {
+            "name": "အဓိပတိလမ္းကေျခရာမ်ား",
+            "artis": "ထူးအိမ္သင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1zXU-2ZDXib3THl937rD2qaR7x5W21HHg"
+        },
+        {
+            "name": "တုႏွိဳင္းမဲ႔ရတနာ",
+            "artis": "ထူးအိမ္သင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=189fM23deGdXMJDMOhBBa068bTCk5b4uK"
+        },
+        {
+            "name": "ေနရာခ်င္းသာလဲလိုက္ခ်င္တယ္",
+            "artis": "ထူးအိမ္သင္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1ekWzOjTG2LAaUuto-dK8ZwVuKp1tujPN"
+        },
+        {
+            "name": "အခ်စ္ျပီးေတာ့အခ်စ္ေနာ္",
+            "artis": "ထူးအိမ္သင္ ေဟမာေနဝင္း",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=157r5GvinTRLuUTL-VXdkQaGjBf5sS7O6"
+        },
+        {
+            "name": "ပဲ႔ကိုင္",
+            "artis": "ထူးအိမ္သင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1CQEJEtLFBikQFcnTMcUu7Cvu0ti0veBk"
+        },
+        {
+            "name": "အခ်စ္ဆိုသည္မွာ",
+            "artis": "ထူးအိမ္သင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1Z6RYms3VFtktunhb3u0AzitiNeIigMd-"
+        },
+        {
+            "name": "ပန္းေတြနဲ႔ေဝ",
+            "artis": "ထူးအိမ္သင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1yykeyFVKkFEI_IyM0Zw2UNKB6t3i_yHb"
+        },
+        {
+            "name": "စိတ္မညစ္နဲ႔",
+            "artis": "ထူးအိမ္သင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1vm7wanTcJ1lgmd9jYuAtCfu283WRXR-I"
+        },
+        {
+            "name": "သစ္ပင္အိုရဲ႔ကမၻာ",
+            "artis": "ထူးအယ္လ္လင္း",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1hzvps0OzMFD1jTEB0bckgSzbl5t-v2D2"
+        },
+        {
+            "name": "ေႏြအလွ",
+            "artis": "ဂေရဟန္",
+            "album": "သႀကၤန္",
+            "type": "Soft",
+            "link": "https://drive.google.com/open?id=17Fw2lJszVNJvF7rUjlm0CgUROWC-bpNd"
+        },
+        {
+            "name": "ႏွစ္သစ္မဂၤလာ",
+            "artis": "ရင္ဂို",
+            "album": "သႀကၤန္",
+            "type": "Soft",
+            "link": "https://drive.google.com/open?id=1eJBqG7jWU7YyHaD8syc-j8klaWevXmxP"
+        },
+        {
+            "name": "ဇာတ္ေတာ္ထဲမွာအလြမ္းဆံုး",
+            "artis": "အငဲ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1i8_qGrip97WU7X527GgOaqyFgHnJ0GyR"
+        },
+        {
+            "name": "၈၅မႏၱေလးညမ်ားတမ္းခ်င္း",
+            "artis": "အငဲ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1x0Zav6Ik9yIKMIy_wjF16HPCWivzDRSd"
+        },
+        {
+            "name": "ေမွ်ာ္လင့္ျခင္းကြင္းျပင္",
+            "artis": "အငဲ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1xgNi6mobDexG4_jqnDkoSYmpWxKZ5yrr"
+        },
+        {
+            "name": "စိတ္နာရံု",
+            "artis": "ဝန",
+            "album": "အသင့္ျဖစ္ထားတယ္",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1eIeolaRbtFDZ1EpNjQxzRt-TScVUfmL1"
+        },
+        {
+            "name": "ခ်စ္သူ႔အနား",
+            "artis": "ဘန္နီျဖိဳး",
+            "album": "Unknown",
+            "type": "Pop",
+            "link": "https://drive.google.com/open?id=185r_EbqcqMKhu_mjVAPKz6y14C1_-clc"
+        },
+        {
+            "name": "ကဗ်ာမမွီစာမပီ(က)",
+            "artis": "စံလင္း",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1VD9bHvjmKETnyMv0aThSUp56FqV1taup"
+        },
+        {
+            "name": "တစ္သက္လံုးအတြက္",
+            "artis": "စိုင္းလိတ္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1K8PK9VvIAoUWX8DlKsNAJcoMowZYa8cj"
+        },
+        {
+            "name": "ႀကိဳတင္ကာသိခြင့္ရွိရင္",
+            "artis": "စိုင္းလိတ္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1qJIALIsn7-4xC2YpaLREgI9c8-boZQAB"
+        },
+        {
+            "name": "သခင့္ဆီအေျပးျပန္လာမည္",
+            "artis": "စိုင္းထီးဆိုင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1zjrTS08cCw3p44M0N5wRR-e2T-48Qbzg"
+        },
+        {
+            "name": "ယဥ္ယဥ္ေလးရူး",
+            "artis": "Rဇာနည္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1bb1uKUI4qdynmyWDl1tZmx2-9GS02MB7"
+        },
+        {
+            "name": "ေခါက္ရိုးက်ိဳး",
+            "artis": "လင္းလင္း",
+            "album": "စဥ္းစားပါ",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1qBa0M4RUGVvQjwe0VBWqCiSgSrDQ9X5O"
+        },
+        {
+            "name": "ဝဋ္ေႀကြး",
+            "artis": "ဝိုင္ဝိုင္း",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1N6hig-6Q4f-QunSzd-pB4d7HDmOm3bE1"
+        },
+        {
+            "name": "အနီးဆံုးလူ",
+            "artis": "ဝန",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1tA76Rezg1BDl0wShG2T_oTD-8oHxe_hF"
+        },
+        {
+            "name": "ႀကယ္ေတြေႀကြသြားသည့္တိုင္",
+            "artis": "မ်ိဳးႀကီး",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1eSeN6fjLMo4Fddw6scq9Tm8kB1yvPeRZ"
+        },
+        {
+            "name": "ဂႏၱဝင္ဆည္းဆာ",
+            "artis": "Rဇာနည္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1eRl5ozm4roLYDxxRkC8IGstoLADOfqqp"
+        },
+        {
+            "name": "မိတ္ကပ္မႀကိဳက္ေသာသီခ်င္းမွား",
+            "artis": "ေဝလ",
+            "album": "မိတ္ကပ္မႀကိဳက္ေသာသီခ်င္းမွား",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1lYjHbGpMaxzSbuPeKmwHxqDy2HfMa_hm"
+        },
+        {
+            "name": "ဒီလမ္းကေလး",
+            "artis": "သားငယ္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1WD8J1Pq2q8MXXd4u26sw4xQTiE2ZqWJh"
+        },
+        {
+            "name": "လူပ်ိဳႀကီးပဲလုပ္ေတာ့မယ္",
+            "artis": "ေဂ်ညီညီ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1GJWGMgA_EXrzI_R2ULJMIJoz_pY0eyas"
+        },
+        {
+            "name": "စကၠထရီ",
+            "artis": "ဟဲေလး",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1_UKjYKj43-3QVxhUt5L2OKyMBWDLLrEa"
+        },
+        {
+            "name": "ေရာဂါ",
+            "artis": "ေလးျဖဴ အငဲ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1WHfmaYI6kDUwLEAyQViB8Klw4k4lnGP8"
+        },
+        {
+            "name": "ေမွ်ာ္လင့္ေနမယ္",
+            "artis": "Rဇာနည္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1sLaK0axJlEg62YH6ZCQkvqW6ACQ5knbS"
+        },
+        {
+            "name": "အလြမ္းရဲ႔ည",
+            "artis": "Lလြန္းဝါ",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1Bjq3HwN1H---N3WrpnLTdwzJQwX33jsb"
+        },
+        {
+            "name": "လမ္းခြဲ",
+            "artis": "ဖိုးကာ",
+            "album": "Unknown",
+            "type": "Soft",
+            "link": "https://drive.google.com/open?id=1oJLdfJq0yq9Qkwl-50Sra0mmX0IDhFdy"
+        },
+        {
+            "name": "ႏွစ္ေယာက္တစ္အိမ္မက္",
+            "artis": "Lလြန္းဝါ",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1AWO69rcjPa5JwKtFdVCIuwz5AAmvkAqd"
+        },
+        {
+            "name": "အျဖဴသက္သက္",
+            "artis": "Lလြန္းဝါ",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1gL-9rAmLIhZdGAxZYfUuheyCgYBKSDSc"
+        },
+        {
+            "name": "ျပန္ခဲ႔",
+            "artis": "Lလြန္းဝါ",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1vFpcKFgr84cSuOxk-I5Nkz8Z5Ud0IxN7"
+        },
+        {
+            "name": "စကားမစပ္",
+            "artis": "Lလြန္းဝါ",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1yY4jPBaYhoseChfG41O_X9NEkMFuwpeR"
+        },
+        {
+            "name": "ထပ္မဆံုႏိုင္တဲ႔ဘဝ",
+            "artis": "Lလြန္းဝါ",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1SPe_SS29NcnVhmDhehvc2yVqhO6eov_v"
+        },
+        {
+            "name": "ရင္ဘတ္ကလူ",
+            "artis": "Lလြန္းဝါ",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1h6FKe79XWn7UOZjcPXDMGefVFxhRsQxp"
+        },
+        {
+            "name": "လ်ိဳ႔ဝွက္ခ်စ္",
+            "artis": "Lလြန္းဝါ",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1m4gnZULSh8uZqJ6ChGNMngIUX-_4QvS5"
+        },
+        {
+            "name": "မင္းပဲကိုယ္ခ်စ္တယ္",
+            "artis": "Lလြန္းဝါ",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1GxQgcli6wJaqP80jYWuOIZdg24SQPnpi"
+        },
+        {
+            "name": "ရင္ကြဲကာမွ",
+            "artis": "Lလြန္းဝါ",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1Y_N5BVtNyaY7_2eQrDg31WqJeIUZJzSw"
+        },
+        {
+            "name": "ခ်စ္သူ",
+            "artis": "Lလြန္းဝါ",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1GJnyBb7KCgc13TV4E9PfD_BkHSKquefg"
+        },
+        {
+            "name": "အဆံုးမဲ႔ေမွ်ာ္လင့္ခ်က္",
+            "artis": "Lလြန္းဝါ",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1IgMu9JBa_2TIZUoadu-kgEPEA0-LBzta"
+        },
+        {
+            "name": "စင္သီ",
+            "artis": "Lလြန္းဝါ",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1E8JooeHLf0WbEhN7YPnEDJKaiP3qZjPc"
+        },
+        {
+            "name": "အကန္႔အသတ္မရွိ",
+            "artis": "ေနာေနာ္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1-W60CMUU0H3MVQaXpzpf22cSnhhcYyDl"
+        },
+        {
+            "name": "သတိရတယ္",
+            "artis": "Big Bag",
+            "album": "Anger Management",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1Tzl5r1KhkRKG-fX5gIFyMaMCL5YbNUm_"
+        },
+        {
+            "name": "စိတ္ကူးနဲ႔ရူး",
+            "artis": "Lလြန္းဝါ",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1sPKGYLE8Y_XZNmdJlUknbU2_Vbuvx3g8"
+        },
+        {
+            "name": "တံခါးဖြင့္ထားျပီးေစာင့္ေနမယ္",
+            "artis": "ေရႊထူး",
+            "album": "Unknown",
+            "type": "Pop",
+            "link": "https://drive.google.com/open?id=157CB-ls5alyhTtnxTp7JgIVpj9IcUG9o"
+        },
+        {
+            "name": "မင္းျပန္ခဲ႔ပါ",
+            "artis": "LDေက်ာ္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1NrkTnyXPwY0A9irUCyCjP4yqaS8bElXV"
+        },
+        {
+            "name": "ကေလးရယ္",
+            "artis": "ေဝလင္း",
+            "album": "Unknown",
+            "type": "Pop",
+            "link": "https://drive.google.com/open?id=100W1nSIgUN0iDIpOfj9sZRKdiV6rnRbX"
+        },
+        {
+            "name": "လမ္းခြဲႀကပါစို႔",
+            "artis": "Unknown",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1bshVsjHhQ8g9ovUE5iNf_YcjmXhlHsZz"
+        },
+        {
+            "name": "ေရႊဧည့္သည္",
+            "artis": "ေဝလ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1F17_HIZWBL0rJaoJPzkdJYGu5iFHdc8Z"
+        },
+        {
+            "name": "ျပတ္တုန္းလပ္တုန္း၂၃",
+            "artis": "ေဝလ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1X_ZOWJa2PeGpdkrKbN0F-gs4pVyHAECv"
+        },
+        {
+            "name": "မငိုပါနဲ႔",
+            "artis": "နီတာ",
+            "album": "Unknown",
+            "type": "Pop",
+            "link": "https://drive.google.com/open?id=1ITLmjhTSTWjY1P9lXriFyJKSNQ1gTnTn"
+        },
+        {
+            "name": "အိပ္မက္ေဖာင္ႀကီး",
+            "artis": "ဘိုျဖဴ",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1rcFL05OiBetFMwyNsyjkDBYkj3vLLkS3"
+        },
+        {
+            "name": "မမခ်စ္လို႔မျဖစ္",
+            "artis": "အဲလပ္စ္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1-88OoE0XMlczY69DNvSx4KNJ26tkfNdK"
+        },
+        {
+            "name": "မင္းယံုပါ",
+            "artis": "ေဇာ္ပိုင္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1g6oek9ryAthj9MuLCOPGUj2ztIZoEmo2"
+        },
+        {
+            "name": "တစ္ခါတစ္ေလ",
+            "artis": "Rဇာနည္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1lL1m0oHvh_Hg8J6WOrC3DzFoug4309Qj"
+        },
+        {
+            "name": "အိုးေလးကြဲသြားျပီ",
+            "artis": "အစိုင္း",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=114a6yGUsBcD7QRNaJpMjZgxJu6bf0Fru"
+        },
+        {
+            "name": "ေသလို႔ရတယ္",
+            "artis": "Raymon(Idiot)",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1HyKCkHmjq3MBSPChy8lvYjmsKe245eLp"
+        },
+        {
+            "name": "တစ္ေယာက္ပဲသတ္ခ်င္တယ္",
+            "artis": "G Fatt",
+            "album": "Unknown",
+            "type": "Rap",
+            "link": "https://drive.google.com/open?id=10Fuvb8fC009PdlhyK1xS4rjqeBaa9eq4"
+        },
+        {
+            "name": "မင္းတစ္ေယာက္တည္း",
+            "artis": "ဆင္ေပါက္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1zVDox39KffS9Xd3d7j-OLiySdimTcOIt"
+        },
+        {
+            "name": "မင္း",
+            "artis": "ထူးအယ္လ္လင္း မီးမီးခဲ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1IrEfwAnB6dt2g6IK1z-HGFWYblrat6UH"
+        },
+        {
+            "name": "အရင္ကဇာတ္လမ္းေလး",
+            "artis": "ကိုေအာင္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1xCna9ZGWzwnGBsfK-1m5BaCXIsRTX6Vv"
+        },
+        {
+            "name": "မွားတယ္",
+            "artis": "ေနာေနာ္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1QrX117PA2XEq_sQz7eHs3VWKBchkQnRX"
+        },
+        {
+            "name": "မတားခဲ႔ပါဘူး",
+            "artis": "ေနာေနာ္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1qchtI9eg8cHgY5KIizzwS82fT-SHM3RF"
+        },
+        {
+            "name": "သူငယ္ခ်င္း",
+            "artis": "ဥာဏ္လင္းေအာင္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1_YbuhIbgqkPCThoY0lzibxZQlDGfB6dj"
+        },
+        {
+            "name": "တစ္ခ်က္ေလးေစာင္းငဲ့ႀကည့္ဦး",
+            "artis": "ဥာဏ္လင္းေအာင္ ဝိုင္းစုခိုင္သိန္း",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1vm2aOYIqpE3_H9JiX1UehFyZ_2zTjIIA"
+        },
+        {
+            "name": "စြန္႔သြားေတာ့ေနျခည္",
+            "artis": "ေဇာ္ပိုင္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1jf2Tuadau067w3AQis2w50JeRkQDui3b"
+        },
+        {
+            "name": "ကေလးတစ္ေယာက္နဲ႔ႀကာျဖဴတစ္ပြင့္",
+            "artis": "ေလးျဖဴ",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1CKYw3r0SV8890DlENoEZqfK6_tB2UbCk"
+        },
+        {
+            "name": "အေတာင္ပံပါရင္မင္းဆီကို",
+            "artis": "စိုးပိုင္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1bKuIKEFLAheIdeeHmER7QjU3cTERiSNO"
+        },
+        {
+            "name": "မ်က္ဝန္းညိဳ",
+            "artis": "ေဇာ္ပိုင္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1XPrDvRBrR_VKsODFHjm1SzmJCI_jVhi0"
+        },
+        {
+            "name": "စိတ္ရြက္ေလွ",
+            "artis": "သာဒီးလူ",
+            "album": "ျပယုဂ္",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1Z5EfETL7nuOVkB5gN91bU21HhoPLctNY"
+        },
+        {
+            "name": "တေစၦတစ္ေကာင္ကတဲ႔ည",
+            "artis": "သာဒီးလူ",
+            "album": "ျပယုဂ္",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1dRQF_FvCBd7krdhyuVKI9ngqyVJtwQzi"
+        },
+        {
+            "name": "အားမနာနဲ႔",
+            "artis": "သာဒီးလူ",
+            "album": "ျပယုဂ္",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=13bUVyFOljEylxhh2FpGAFILrpAtOQ2Ue"
+        },
+        {
+            "name": "ယံုႀကည္ျခင္းနဲ႔စိမ္းတဲ႔လူ",
+            "artis": "သာဒီးလူ",
+            "album": "ျပယုဂ္",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1gfytXr_O5m9pokXSkAi5l8cggGlVszO5"
+        },
+        {
+            "name": "လိုသလိုသံုး",
+            "artis": "သာဒီးလူ",
+            "album": "ျပယုဂ္",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1ElJY2WyQIRT8iZohhPl-Za3mShPvHLj9"
+        },
+        {
+            "name": "သံစဥ္အလိုက္",
+            "artis": "သာဒီးလူ",
+            "album": "ျပယုဂ္",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1Tjg7GdVDG2MStyVWwGLRJaAWahwE8WiK"
+        },
+        {
+            "name": "ငါငိုတတ္ျပီ",
+            "artis": "သာဒီးလူ",
+            "album": "ျပယုဂ္",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=11DIVCPXJZc077ZonciiWxEemSWX2EPZe"
+        },
+        {
+            "name": "ျပယုဂ္",
+            "artis": "သာဒီးလူ",
+            "album": "ျပယုဂ္",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1PUi9VUcwbjERiiWK7UoDyV8v4VTTYSLX"
+        },
+        {
+            "name": "ေစာင့္ေနပါ",
+            "artis": "သာဒီးလူ",
+            "album": "ျပယုဂ္",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1nby-9pu3nm_m0ngpX4AF-1TNE-oP5HES"
+        },
+        {
+            "name": "အေတြးပန္းခ်ီ",
+            "artis": "သာဒီးလူ",
+            "album": "ျပယုဂ္",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=11OraZNuCOtzdcfzS1RoPQtEXBF8k226r"
+        },
+        {
+            "name": "အမွတ္တရvalentine",
+            "artis": "သာဒီးလူ",
+            "album": "ျပယုဂ္",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=19-UViMFPfusBvhVWvKZZ1Wdinkow62z2"
+        },
+        {
+            "name": "အလွစစ္",
+            "artis": "Rဇာနည္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1hXyG4cbgl-iTCDKr8fxnAG2a7uckQ6c5"
+        },
+        {
+            "name": "လြမ္းေနဦးမယ္",
+            "artis": "ဝိုင္ဝိုင္း",
+            "album": "လမင္းနဲ႔ပင္လယ္",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1CPpxBRiksdPQ2gO1UPE8k6f3MmF5L4bV"
+        },
+        {
+            "name": "သမင္လည္ျပန္",
+            "artis": "ဝိုင္ဝိုင္း",
+            "album": "လမင္းနဲ႔ပင္လယ္",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1lCZzB2F2FAEGPfpZfUzmIh96weqkbLxv"
+        },
+        {
+            "name": "ေမ့မွာပါ",
+            "artis": "ဝိုင္ဝိုင္း",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=189CaZd0H85QlIOfE4BRZfVeesXhruJUv"
+        },
+        {
+            "name": "ခြင့္ျပဳတယ္ခြင့္လႊတ္တယ္",
+            "artis": "Rဇာနည္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1CDLTOZ3LWSyn-bvCqYa5mF3fDyj1r603"
+        },
+        {
+            "name": "ခ်မ္းလည္းခ်မ္းတယ္လြမ္းလည္းလြမ္းတယ္",
+            "artis": "ကိုင္ဇာ",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1xfja-ENsRMMwQdfa566sXUX78VXvvFTq"
+        },
+        {
+            "name": "စြန္႔စားမယ့္အခ်စ္",
+            "artis": "ရဲလြင္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=19Quxpu6fP4imeZDe4Yg42c7voo1w78Fx"
+        },
+        {
+            "name": "ကိႏၷရာေခ်ာင္းျခားအမွာစကား",
+            "artis": "ရင္ဂို",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1Og-Eo1LshW01EuADDjpY7tsCj7fK8BD1"
+        },
+        {
+            "name": "ကမ႓ာႀကီးကိုအလွဆင္ပါ",
+            "artis": "အငဲ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1GVwtaV-sveNn0wByz68yNRjseUW0yFLo"
+        },
+        {
+            "name": "ေကာင္မေလး",
+            "artis": "ရိန္မိုး",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1j5pbAR3yx1oY3KWjoF0dkh2R3vSCQt3p"
+        },
+        {
+            "name": "ေနာက္မီး",
+            "artis": "ဝန",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1YknzXmaPZr67wud7hk-slIcg3BKENWcl"
+        },
+        {
+            "name": "ကိုယ္ေရးရာဇဝင္",
+            "artis": "အငဲ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1n3f1bHdJQe0OvHrFkT2lTAyfFxWoJ2Jq"
+        },
+        {
+            "name": "ခဏမ်က္စိမွိတ္ျပီး",
+            "artis": "ေနာေနာ္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1487tOIGEvvO-o6fMgWDfWjLydSyw2wk0"
+        },
+        {
+            "name": "ခ်စ္ျခင္းကိုမခြဲပါနဲ႔",
+            "artis": "ထြန္းအိျႏၵာဗိုလ္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1LjWrbJRQ_oUq7eClF9EK9R4mx1YY_jbJ"
+        },
+        {
+            "name": "အသင့္ရွိသူ",
+            "artis": "ဥာဏ္လင္းေအာင္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1vCfa1L84T0fKTLiqX7gL6Y15Sgp3oeP8"
+        },
+        {
+            "name": "ထပ္မေဝးဘူး",
+            "artis": "အငဲ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1Loiz0dQFulUGYCqtVuki_FzjgsUBeZyA"
+        },
+        {
+            "name": "ေႏြဦးအလြမ္း",
+            "artis": "ထူးအယ္လ္လင္း",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1resy-ovzghT6MpSHv0yohrcn4zCFWicC"
+        },
+        {
+            "name": "ေဝးခဲ့ျပီပန္းခရမ္းျပာ",
+            "artis": "ခင္ေမာင္တိုး",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1tjOpYTS6jxLJwXSFRppkzWatEDBOihD7"
+        },
+        {
+            "name": "အခ်စ္စစ္ဆိုတာ",
+            "artis": "ခင္ေမာင္တိုး",
+            "album": "Unknown",
+            "type": "Soft",
+            "link": "https://drive.google.com/open?id=1_1bz-z7RAD6eIyPVUC5xjsxn9AWH8LPZ"
+        },
+        {
+            "name": "မဟာဆန္သူ",
+            "artis": "ခင္ေမာင္တိုး",
+            "album": "Unknown",
+            "type": "Soft",
+            "link": "https://drive.google.com/open?id=10iI1a4--Arw59XhOl-Tdwa04Qz9Lehlg"
+        },
+        {
+            "name": "ပိုင္ရွင္",
+            "artis": "ရင္ဂို",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1Ck_3YCz02R1oyMJBF5lsxP6RNXyeeW04"
+        },
+        {
+            "name": "သူငယ္ခ်င္းခ်စ္သူ",
+            "artis": "ညီပုေလး",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1Ub9cfza_znECo9_OmwXV3otkobAA-Tk_"
+        },
+        {
+            "name": "ပန္းမခူးရ",
+            "artis": "ရိန္မိုး",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1FsZYdylt0GswNbZxBNIKAW9BVNBmrDvs"
+        },
+        {
+            "name": "နဒီမဂၤလာ",
+            "artis": "ခင္ေမာင္တိုး",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1Neu9_jcLtLQ6beMyXe7QZWkQPvBFkGYP"
+        },
+        {
+            "name": "အလြမ္းမ်ား",
+            "artis": "ေလးျဖဴ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1q94bTPSsMFw4c3bht7uLd51xwJfZPFHF"
+        },
+        {
+            "name": "သူသိပါကြယ္",
+            "artis": "စိုးသူ",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1fhao_KdAcUoCrQGh37dQco1Rb6Oc1p2Z"
+        },
+        {
+            "name": "မျငိတြယ္နဲ႔",
+            "artis": "လင္းလင္း",
+            "album": "စဥ္းစားပါ",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1tuhhqP6gMTPovn1P_cdZiFpOd4YBRLOV"
+        },
+        {
+            "name": "ျဖစ္သလိုေမ့လိုက္ပါ",
+            "artis": "လင္းလင္း",
+            "album": "စဥ္းစားပါ",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1cw8JW4v1uhb4Ij8S_1gJCEJe9G6E2n-h"
+        },
+        {
+            "name": "စေနေထာင့္ပန္းလွဴမယ္",
+            "artis": "ျမန္မာျပည္သိန္းတန္",
+            "album": "Unknown",
+            "type": "Soft Rock",
+            "link": "https://drive.google.com/open?id=1C9j6zGwmhJKiKwohC6upQ9WD2sIuRhtm"
+        },
+        {
+            "name": "အလြမ္း",
+            "artis": "ေလးျဖဴ",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1V732iyfcZyg5a20vhCi3ckSaAI6ZFiK6"
         }
     ]
 }
