@@ -303,7 +303,7 @@
         },
         {
             "name": "ဒီအတိုင္း",
-            "artis": "Fokker",
+            "artis": "Fokker(Wanted)",
             "album": "Unknown",
             "type": "Rock",
             "link": "https://drive.google.com/open?id=1Dxwm40Y-2XqflyRc4HxLmp8vT4IxLc_u"
@@ -1779,7 +1779,7 @@
             "link": "https://drive.google.com/open?id=1V-7y6higxTBBp_mrfTF-6emYTnMpA91T"
         },
         {
-            "name": "ႈငါ့ေႀကာင့္",
+            "name": "ငါ့ေႀကာင့္",
             "artis": "Fokker(Wanted)",
             "album": "Unknown",
             "type": "Rock",
@@ -2383,7 +2383,7 @@
         {
             "name": "သံေယာဇဥ္ျဖတ္တဲ႔နည္း",
             "artis": "Fokker(Wanted)",
-            "album": "Unknown",
+            "album": "စိတ္နဲ႔လူ",
             "type": "Rock",
             "link": "https://drive.google.com/open?id=1mGADTS4xpGQKQcKaMTzrzuW95TFUkgmz"
         },
@@ -5706,7 +5706,7 @@
             "link": "https://drive.google.com/open?id=1GW2UPSltYs0fgG2St4nKoniYPQR8j6ZU"
         },
         {
-            "name": "မင္းေႀကညင့္ပါ",
+            "name": "မင္းေႀကာင့္ပါ",
             "artis": "Fokker(Wanted)",
             "album": "Unknown",
             "type": "Rock",
@@ -7381,28 +7381,28 @@
         {
             "name": "ေရစက္",
             "artis": "Fokker(Wanted)",
-            "album": "Unknown",
+            "album": "စိတ္နဲ႔လူ",
             "type": "Rock",
             "link": "https://drive.google.com/open?id=1CgRQwgtFyms41aoAs2BWzg-sMT1BGb7m"
         },
         {
             "name": "ငေတ",
             "artis": "Fokker(Wanted)",
-            "album": "Unknown",
+            "album": "စိတ္နဲ႔လူ",
             "type": "Rock",
             "link": "https://drive.google.com/open?id=1txFys3rwFBapugvVbRMSmZcxa1ysRIma"
         },
         {
             "name": "ႏွဳတ္ဆက္ေတး",
             "artis": "Fokker(Wanted)",
-            "album": "Unknown",
+            "album": "စိတ္နဲ႔လူ",
             "type": "Rock",
             "link": "https://drive.google.com/open?id=1o4ze59RdJpeZqLOwpQCzTgP_qywV-DX5"
         },
         {
-            "name": "ဆ္ုးတစ္လွည့္ေကာင္းတစ္လွည့္",
+            "name": "ဆိုးတစ္လွည့္ေကာင္းတစ္လွည့္",
             "artis": "Fokker(Wanted)",
-            "album": "Unknown",
+            "album": "စိတ္နဲ႔လူ",
             "type": "Rock",
             "link": "https://drive.google.com/open?id=1y-4qZ_WrLvqDBcqRH2ctw2F3q0_AXuLy"
         },
@@ -7930,6 +7930,118 @@
             "album": "Unknown",
             "type": "Soft Rock",
             "link": "https://drive.google.com/open?id=12pWS11uXwBu5uOT1GjA49aqxadut6TLG"
+        },
+        {
+            "name": "ေနသာေလလာတဲ႔ေန႔မွာ",
+            "artis": "အရိုး",
+            "album": "လူလည္အာရွသား",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1qtRZ3xAhg2epZxrJkUZQkuyjQcUChBAM"
+        },
+        {
+            "name": "ကန္တင္းထဲကကြင္းလက္ခ်ာ",
+            "artis": "အရိုး",
+            "album": "လူလည္အာရွသား",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1c1qU6yIZu7eT0iEMSvTS4PDz-l0wO_Zg"
+        },
+        {
+            "name": "ရုပ္ရွင္ႀကည့္တဲ့ည",
+            "artis": "အရိုး",
+            "album": "လူလည္အာရွသား",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=19ie3RKj3MWiatuuKEkfSN4F9lXM_DeQQ"
+        },
+        {
+            "name": "ေလေတြတိုက္တဲ့ည",
+            "artis": "အရိုး",
+            "album": "လူလည္အာရွသား",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1cMcSqKag151HZ2c8PIjlGoZQs-_RBYV1"
+        },
+        {
+            "name": "ဘြဲ႔ႏွင္းသဘင္ေန႔",
+            "artis": "အရိုး",
+            "album": "လူလည္အာရွသား",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1zjruY_SvFjCvNxNJncW08d_v4V0b7U48"
+        },
+        {
+            "name": "အမဲကင္က်ပ္တိုက္ေႀကာ္",
+            "artis": "အရိုး",
+            "album": "လူလည္အာရွသား",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1o3W8BD3mBsHbupwiLkRIaavywHtiOkdp"
+        },
+        {
+            "name": "ဒါရိုက္တာ",
+            "artis": "အရိုး",
+            "album": "လူလည္အာရွသား",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=19d8Oo5_HKMtIgGnuG0prlcY0HQjvRPYR"
+        },
+        {
+            "name": "ကံဆိုသည္မွာ",
+            "artis": "အရိုး",
+            "album": "လူလည္အာရွသား",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=12llKE98KVcGQdPl24UGNTM7rd8lJsYV9"
+        },
+        {
+            "name": "ေရာ့ခ္အင္ရိုး",
+            "artis": "အရိုး",
+            "album": "လူလည္အာရွသား",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1J2J4eM_ob_hNXWgQPwd4FGhTLid0XElD"
+        },
+        {
+            "name": "တစ္စကၠန္႔မွာတစ္စံုတစ္ရာ",
+            "artis": "အရိုး",
+            "album": "လူလည္အာရွသား",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1ldmsn12T5-szFneUAxArSDIlipTWGJHj"
+        },
+        {
+            "name": "ေနာက္ဆံုးမွာေတာ့",
+            "artis": "အရိုး",
+            "album": "လူလည္အာရွသား",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=15uvbahDCIXiujhaK-CZMKtDDy5HOAXth"
+        },
+        {
+            "name": "တစ္ေန႔ေန႔ေတာ့",
+            "artis": "ဥဂၢါ",
+            "album": "Unknown",
+            "type": "Pop",
+            "link": "https://drive.google.com/open?id=1yzCvP8IwSOrX_lyk7F3Z1CQUBTLbtGka"
+        },
+        {
+            "name": "သက္ေသျပမွာပါ",
+            "artis": "Rဇာနည္",
+            "album": "Unknown",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1kvkI-n9FC1_RU0C8up3IxktQ2aLWzSCE"
+        },
+        {
+            "name": "မေတြ႔ခ်င္ဘူး",
+            "artis": "Fokker(Wanted)",
+            "album": "စိတ္နဲ႔လူ",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=14w7NMKwFgQ_SY73ArEMGJ6LNDI9DKS3U"
+        },
+        {
+            "name": "သတိရမိတယ္",
+            "artis": "Fokker(Wanted)",
+            "album": "စိတ္နဲ႔လူ",
+            "type": "Rock",
+            "link": "https://drive.google.com/open?id=1uEaTLIgASBoC39iNBJUR3B5gfmQlYMM5"
+        },
+        {
+            "name": "ေႏွးသြားတယ္",
+            "artis": "ထက္ယံ",
+            "album": "Unknown",
+            "type": "Pop",
+            "link": "https://drive.google.com/open?id=1Qp-xXTwxsmFXtDmfPXkBFxPwpZr6vQ9c"
         }
     ]
 }
