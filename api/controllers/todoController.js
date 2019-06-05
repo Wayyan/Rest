@@ -2,9 +2,11 @@
 var mongo = require('mongodb');
 var file = require('../../data.json');
 const fs = require('fs');
-var MongoClient = mongo.MongoClient;
-var url = process.env.MONGODB_URL || "mongodb://localhost:27017/";
-const client = new MongoClient(url, { useNewUrlParser: true });
+var MongoClient = mongo.MongoClient;//process.env.MONGODB_URL ||
+var url = "mongodb://localhost:27017/";
+
+const uri="mongodb+srv://Way:2002@cluster0-1tplo.mongodb.net/test?retryWrites=true&w=majority";
+const client = new MongoClient(uri, { useNewUrlParser: true });
 
 exports.write_all_data = function (req, res) {
     var json = file;
@@ -20,11 +22,13 @@ exports.write_all_data = function (req, res) {
     //         client.close();
     //     });
     // });
-    MongoClient.connect(url, function(err, db) {
-        if (err) throw err;
-        console.log("Database created!");
-        db.close();
-      });
+
+    client.connect(err => {
+        const collection = client.db("testmyDb").collection("chords");
+        // perform actions on the collection object
+        res.write("Good");
+        client.close();
+    });
 };
 
 exports.add_a_thing = function (req, res) {
