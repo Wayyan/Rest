@@ -2,14 +2,15 @@
 var mongo = require('mongodb');
 var file = require('../../data.json');
 const fs = require('fs');
-var MongoClient = mongo.MongoClient;//process.env.MONGODB_URL ||
-var url = "mongodb://localhost:27017/";
+// var MongoClient = mongo.MongoClient;//process.env.MONGODB_URL ||
+// var url = "mongodb://localhost:27017/";
 
-const uri="mongodb+srv://Way:2002@cluster0-1tplo.mongodb.net/test?retryWrites=true&w=majority";
-const client = new MongoClient(uri, { useNewUrlParser: true });
+// const uri="mongodb+srv://Way:2002@cluster0-1tplo.mongodb.net/test?retryWrites=true&w=majority";
+// const client = new MongoClient(uri, { useNewUrlParser: true });
 
 exports.write_all_data = function (req, res) {
     var json = file;
+    res.json(json);
     // client.connect(function (err) {
     //     if (err) throw err;
     //     var dbo = client.db("mydb");
@@ -23,12 +24,12 @@ exports.write_all_data = function (req, res) {
     //     });
     // });
 
-    client.connect(err => {
-        const collection = client.db("testmyDb").collection("chords");
-        // perform actions on the collection object
-        res.write("Good");
-        client.close();
-    });
+    // client.connect(err => {
+    //     const collection = client.db("testmyDb").collection("chords");
+    //     // perform actions on the collection object
+    //     res.write("Good");
+    //     client.close();
+    // });
 };
 
 exports.add_a_thing = function (req, res) {
