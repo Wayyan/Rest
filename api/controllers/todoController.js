@@ -4,12 +4,12 @@ var file = require('../../data.json');
 const fs = require('fs');
 var MongoClient = mongo.MongoClient;
 var url = "mongodb+srv://wayyan1998:wayyan@cluster0-ibzr1.mongodb.net/test?retryWrites=true&w=majority"||"mongodb://localhost:27017/";
-
+const client = new MongoClient(url, { useNewUrlParser: true });
 exports.write_all_data = function (req, res) {
     var json = file;
-    MongoClient.connect(url, function (err, db) {
+    client.connect(function (err) {
         if (err) throw err;
-        var dbo = db.db("mydb");
+        var dbo = client.db("mydb");
         dbo.collection("chords").find({}, { projection: { _id: 0, name: 1, artis: 2, album: 3, type: 4, link: 5 } }).toArray(function (err, result) {
             if (err) throw err;
             result.forEach(function (result) {
