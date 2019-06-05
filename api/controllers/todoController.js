@@ -3,7 +3,7 @@ var mongo = require('mongodb');
 var file = require('../../data.json');
 const fs = require('fs');
 var MongoClient = mongo.MongoClient;
-var url = "mongodb+srv://wayyan1998:wayyan@cluster0-ibzr1.mongodb.net/test?retryWrites=true&w=majority"||"mongodb://localhost:27017/";
+var url = "mongodb+srv://wayyan1998:wayyan@cluster0-ibzr1.mongodb.net/test?retryWrites=true&w=majority";//"mongodb://localhost:27017/";
 const client = new MongoClient(url, { useNewUrlParser: true });
 exports.write_all_data = function (req, res) {
     var json = file;
