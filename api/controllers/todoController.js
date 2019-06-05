@@ -16,7 +16,7 @@ exports.write_all_data = function (req, res) {
                 json['Sheet1'].push(result);
             });
             res.json(json);
-            db.close();
+            client.close();
         });
     });
 };
